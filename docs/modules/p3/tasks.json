@@ -1,0 +1,16 @@
+{
+  "kompetenz_id": "p3",
+  "aufgaben": [
+    {
+      "title": "Argument analysieren",
+      "description": "Analysieren Sie ein komplexes Argument kritisch",
+      "steps": [
+        "Hauptargument identifizieren",
+        "Unterstützende Punkte listen",
+        "Annahmen explizit machen",
+        "Gegenperspektiven suchen",
+        "Gesamtbewertung formulieren"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "s7",
+  "name": "Verhandlung",
+  "kurzbeschreibung": "Positionen vertreten und Ideen vereinen",
+  "vollbeschreibung": "Fähigkeit, Positionen unvoreingenommen zu vertreten und Ideen aller Standpunkte bestmöglich zu vereinen",
+  "bereich": "Sozial",
+  "eth_anker": "ETH Kompetenzraster Seiten 1-4",
+  "quelle": "ETH Kompetenzraster (Eigentum: ETH Zürich)",
+  "scope": {
+    "includes": [
+      "Verständnis der Kompetenzbereiche",
+      "Analyse von Wissen, Fähigkeiten und Einstellungen",
+      "Praktische Anwendung im Hochschulkontext",
+      "Selbstreflexion und Kompetenzentwicklung"
+    ],
+    "excludes": [
+      "Spezifische fachliche Inhalte",
+      "Implementierungsmassnahmen",
+      "Prüfungen oder Zertifizierungen",
+      "Karriereplanung"
+    ]
+  }
+}

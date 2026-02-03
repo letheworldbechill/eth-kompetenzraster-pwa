@@ -1,0 +1,16 @@
+{
+  "kompetenz_id": "s3",
+  "aufgaben": [
+    {
+      "title": "Kundenanalyse",
+      "description": "Verstehen Sie die Bedürfnisse einer Kundengruppe tiefgehend",
+      "steps": [
+        "Kundengruppe identifizieren",
+        "Interviews oder Umfragen durchführen",
+        "Bedürfnisse analysieren",
+        "Lösungen entwickeln",
+        "Feedback einholen"
+      ]
+    }
+  ]
+}

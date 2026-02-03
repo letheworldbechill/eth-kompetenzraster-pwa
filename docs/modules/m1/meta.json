@@ -1,0 +1,23 @@
+{
+  "id": "m1",
+  "name": "Analytische Kompetenzen",
+  "kurzbeschreibung": "Prozesse und Systeme in Bestandteile zerlegen",
+  "vollbeschreibung": "Fähigkeit, Prozesse und Systeme in ihre Bestandteile zu zerlegen und deren Interaktionen zu verstehen",
+  "bereich": "Methodenspezifisch",
+  "eth_anker": "ETH Kompetenzraster Seiten 1-4",
+  "quelle": "ETH Kompetenzraster (Eigentum: ETH Zürich)",
+  "scope": {
+    "includes": [
+      "Verständnis der Kompetenzbereiche",
+      "Analyse von Wissen, Fähigkeiten und Einstellungen",
+      "Praktische Anwendung im Hochschulkontext",
+      "Selbstreflexion und Kompetenzentwicklung"
+    ],
+    "excludes": [
+      "Spezifische fachliche Inhalte",
+      "Implementierungsmassnahmen",
+      "Prüfungen oder Zertifizierungen",
+      "Karriereplanung"
+    ]
+  }
+}

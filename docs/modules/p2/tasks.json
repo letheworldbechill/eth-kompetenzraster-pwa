@@ -1,0 +1,16 @@
+{
+  "kompetenz_id": "p2",
+  "aufgaben": [
+    {
+      "title": "Kreative Lösung entwickeln",
+      "description": "Generieren Sie kreative Lösungen für ein Problem",
+      "steps": [
+        "Problem verstehen",
+        "Brainstorming durchführen",
+        "Ideen bewerten",
+        "Beste Idee entwickeln",
+        "Machbarkeit testen"
+      ]
+    }
+  ]
+}

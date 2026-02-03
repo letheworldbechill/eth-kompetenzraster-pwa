@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m http.server:*)",
+      "Bash(wc:*)",
+      "Bash(cat:*)",
+      "Bash(for file in \"C:/Users/mycod/Downloads/eth-kompetenzraster-pwa-2.0-production \\(1\\)/docs/modules/\"*/meta.json)",
+      "Bash(do echo \"=== $file ===\")",
+      "Bash(python -c \"import json; json.load\\(open\\(''$file''\\)\\)\")",
+      "Bash(done)",
+      "Bash(for file in \"C:/Users/mycod/Downloads/eth-kompetenzraster-pwa-2.0-production \\(1\\)/docs/modules/\"*/tasks.json)",
+      "Bash(python -c \"import json; json.load\\(open\\(''C:/Users/mycod/Downloads/eth-kompetenzraster-pwa-2.0-production \\(1\\)/docs/data/modules.json''\\)\\)\")",
+      "Bash(node --check:*)"
+    ]
+  }
+}

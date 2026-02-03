@@ -1,0 +1,16 @@
+{
+  "kompetenz_id": "p4",
+  "aufgaben": [
+    {
+      "title": "Ethisches Szenario",
+      "description": "Navigieren Sie durch ein ethisches Dilemma",
+      "steps": [
+        "Situation und Stakeholder analysieren",
+        "Konkurrierende Werte identifizieren",
+        "Optionen und Konsequenzen exploration",
+        "Entscheidung treffen",
+        "Begründung dokumentieren"
+      ]
+    }
+  ]
+}

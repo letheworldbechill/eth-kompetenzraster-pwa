@@ -1,0 +1,23 @@
+{
+  "id": "s6",
+  "name": "Sensibilität für Vielfalt",
+  "kurzbeschreibung": "Unterschiede erkennen und mit ihnen arbeiten",
+  "vollbeschreibung": "Fähigkeit, Unterschiede zwischen Menschen zu erkennen und mit ihnen zu arbeiten",
+  "bereich": "Sozial",
+  "eth_anker": "ETH Kompetenzraster Seiten 1-4",
+  "quelle": "ETH Kompetenzraster (Eigentum: ETH Zürich)",
+  "scope": {
+    "includes": [
+      "Verständnis der Kompetenzbereiche",
+      "Analyse von Wissen, Fähigkeiten und Einstellungen",
+      "Praktische Anwendung im Hochschulkontext",
+      "Selbstreflexion und Kompetenzentwicklung"
+    ],
+    "excludes": [
+      "Spezifische fachliche Inhalte",
+      "Implementierungsmassnahmen",
+      "Prüfungen oder Zertifizierungen",
+      "Karriereplanung"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "kompetenz_id": "m2",
+  "aufgaben": [
+    {
+      "title": "Strukturierte Entscheidung",
+      "description": "Treffen Sie eine persönliche Entscheidung (z.B. Kursauswahl) mit strukturiertem Prozess",
+      "steps": [
+        "Problem definieren",
+        "3+ Alternativen generieren",
+        "Kriterien festlegen",
+        "Alternativen bewerten",
+        "Entscheidung dokumentieren"
+      ]
+    }
+  ]
+}

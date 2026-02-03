@@ -1,0 +1,16 @@
+{
+  "kompetenz_id": "p1",
+  "aufgaben": [
+    {
+      "title": "Veränderungsmanagement",
+      "description": "Navigieren Sie durch eine Veränderung und dokumentieren Sie das Gelernte",
+      "steps": [
+        "Veränderung verstehen",
+        "Eigene Reaktion reflektieren",
+        "Anpassungsschritte identifizieren",
+        "Neue Fähigkeiten entwickeln",
+        "Erfolg dokumentieren"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "m3",
+  "name": "Medien und digitale Technologien",
+  "kurzbeschreibung": "Medien und digitale Technologien kompetent nutzen",
+  "vollbeschreibung": "Fähigkeit, auf Medien und digitale Technologien zuzugreifen, sie zu bewerten und zu nutzen",
+  "bereich": "Methodenspezifisch",
+  "eth_anker": "ETH Kompetenzraster Seiten 1-4",
+  "quelle": "ETH Kompetenzraster (Eigentum: ETH Zürich)",
+  "scope": {
+    "includes": [
+      "Verständnis der Kompetenzbereiche",
+      "Analyse von Wissen, Fähigkeiten und Einstellungen",
+      "Praktische Anwendung im Hochschulkontext",
+      "Selbstreflexion und Kompetenzentwicklung"
+    ],
+    "excludes": [
+      "Spezifische fachliche Inhalte",
+      "Implementierungsmassnahmen",
+      "Prüfungen oder Zertifizierungen",
+      "Karriereplanung"
+    ]
+  }
+}

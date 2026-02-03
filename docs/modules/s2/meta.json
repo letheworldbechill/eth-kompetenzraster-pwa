@@ -1,0 +1,23 @@
+{
+  "id": "s2",
+  "name": "Kooperation und Teamarbeit",
+  "kurzbeschreibung": "In Teams gemeinsame Ziele verfolgen",
+  "vollbeschreibung": "Fähigkeit, Beziehungen zu anderen aufzubauen, um in einer konstruktiven Atmosphäre gemeinsame Ziele zu verfolgen",
+  "bereich": "Sozial",
+  "eth_anker": "ETH Kompetenzraster Seiten 1-4",
+  "quelle": "ETH Kompetenzraster (Eigentum: ETH Zürich)",
+  "scope": {
+    "includes": [
+      "Verständnis der Kompetenzbereiche",
+      "Analyse von Wissen, Fähigkeiten und Einstellungen",
+      "Praktische Anwendung im Hochschulkontext",
+      "Selbstreflexion und Kompetenzentwicklung"
+    ],
+    "excludes": [
+      "Spezifische fachliche Inhalte",
+      "Implementierungsmassnahmen",
+      "Prüfungen oder Zertifizierungen",
+      "Karriereplanung"
+    ]
+  }
+}

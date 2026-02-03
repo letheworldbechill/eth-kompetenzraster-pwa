@@ -1,0 +1,139 @@
+{
+  "framework": "ETH Kompetenzraster",
+  "eigenschaft": "Eigentum der ETH Zürich",
+  "kontaktperson": "barbara.lacara@sl.ethz.ch (Stab Rektor/in)",
+  "quelle": "ETH Zürich Kompetenzraster (Volltext)",
+  "lastUpdated": "2026-02-03",
+  
+  "bereiche": [
+    {
+      "id": "methodenspezifisch",
+      "name": "Methodenspezifische Kompetenzen",
+      "beschreibung": "Kenntnisse und Anwendung von Methoden, um jeden Kontext zu verstehen und darin agieren zu können",
+      "module": [
+        {
+          "id": "m1",
+          "slug": "analytische-kompetenzen",
+          "name": "Analytische Kompetenzen",
+          "kurzbeschreibung": "Fähigkeit, Prozesse und Systeme in ihre Bestandteile zu zerlegen und deren Interaktionen zu verstehen"
+        },
+        {
+          "id": "m2",
+          "slug": "entscheidungsfindung",
+          "name": "Entscheidungsfindung",
+          "kurzbeschreibung": "Fähigkeit, sowohl eine Entscheidung zu fällen als auch Handlungsalternativen zu formulieren"
+        },
+        {
+          "id": "m3",
+          "slug": "medien-digitale-technologien",
+          "name": "Medien und digitale Technologien",
+          "kurzbeschreibung": "Fähigkeit, auf Medien und digitale Technologien zuzugreifen, sie zu bewerten und zu nutzen"
+        },
+        {
+          "id": "m4",
+          "slug": "problemloesung",
+          "name": "Problemlösung",
+          "kurzbeschreibung": "Fähigkeit, ein Problem zu definieren und Lösungen dafür zu finden"
+        },
+        {
+          "id": "m5",
+          "slug": "projektmanagement",
+          "name": "Projektmanagement",
+          "kurzbeschreibung": "Fähigkeit, Projekte zu leiten und Ergebnisse zu erzielen"
+        }
+      ]
+    },
+    {
+      "id": "sozial",
+      "name": "Soziale Kompetenzen",
+      "beschreibung": "Kompetenzen, die in der Interaktion mit anderen angewandt werden",
+      "module": [
+        {
+          "id": "s1",
+          "slug": "kommunikation",
+          "name": "Kommunikation",
+          "kurzbeschreibung": "Fähigkeit, mit anderen in verschiedenen Kontexten und unterschiedlichen Formen zu kommunizieren"
+        },
+        {
+          "id": "s2",
+          "slug": "kooperation-teamarbeit",
+          "name": "Kooperation und Teamarbeit",
+          "kurzbeschreibung": "Fähigkeit, Beziehungen zu anderen aufzubauen, um in einer konstruktiven Atmosphäre gemeinsame Ziele zu verfolgen"
+        },
+        {
+          "id": "s3",
+          "slug": "kundenorientierung",
+          "name": "Kundenorientierung",
+          "kurzbeschreibung": "Fähigkeit, Beziehungen zu anderen und der Gesellschaft so anzugehen, dass man sich an dem orientiert, was man zu bieten hat"
+        },
+        {
+          "id": "s4",
+          "slug": "menschenfuehrung-verantwortung",
+          "name": "Menschenführung und Verantwortung",
+          "kurzbeschreibung": "Fähigkeit, andere zu motivieren, zu inspirieren und sie bei ihren Erfolgen zu unterstützen"
+        },
+        {
+          "id": "s5",
+          "slug": "selbstdarstellung-soziale-einflussnahme",
+          "name": "Selbstdarstellung und soziale Einflussnahme",
+          "kurzbeschreibung": "Fähigkeit, anderen ein authentisches und professionelles Selbstbild zu vermitteln"
+        },
+        {
+          "id": "s6",
+          "slug": "sensibilitaet-vielfalt",
+          "name": "Sensibilität für Vielfalt",
+          "kurzbeschreibung": "Fähigkeit, Unterschiede zwischen Menschen zu erkennen und mit ihnen zu arbeiten"
+        },
+        {
+          "id": "s7",
+          "slug": "verhandlung",
+          "name": "Verhandlung",
+          "kurzbeschreibung": "Fähigkeit, Positionen unvoreingenommen zu vertreten und Ideen aller Standpunkte bestmöglich zu vereinen"
+        }
+      ]
+    },
+    {
+      "id": "persoenlich",
+      "name": "Persönliche Kompetenzen",
+      "beschreibung": "Selbstmanagement-Kompetenzen im Kontext der eigenen Arbeit",
+      "module": [
+        {
+          "id": "p1",
+          "slug": "anpassung-flexibilitaet",
+          "name": "Anpassung und Flexibilität",
+          "kurzbeschreibung": "Fähigkeit, sich effektiv an ein sich veränderndes Umfeld anzupassen und gut mit Veränderungen umzugehen"
+        },
+        {
+          "id": "p2",
+          "slug": "kreatives-denken",
+          "name": "Kreatives Denken",
+          "kurzbeschreibung": "Fähigkeit, neue und nützliche Ideen zu generieren und umzusetzen"
+        },
+        {
+          "id": "p3",
+          "slug": "kritisches-denken",
+          "name": "Kritisches Denken",
+          "kurzbeschreibung": "Fähigkeit, Situationen zu analysieren, zu bewerten und Vorgehensweisen zu empfehlen"
+        },
+        {
+          "id": "p4",
+          "slug": "integritaet-arbeitsethik",
+          "name": "Integrität und Arbeitsethik",
+          "kurzbeschreibung": "Einhaltung moralischer und ethischer Prinzipien bei der eigenen Arbeit und in der Beziehung zu anderen"
+        },
+        {
+          "id": "p5",
+          "slug": "selbstbewusstsein-reflexion",
+          "name": "Selbstbewusstsein und Selbstreflexion",
+          "kurzbeschreibung": "Fähigkeit, die eigenen Stärken und Schwächen zu verstehen und die Selbstentwicklung zu fördern"
+        },
+        {
+          "id": "p6",
+          "slug": "selbststeuerung-management",
+          "name": "Selbststeuerung und Selbstmanagement",
+          "kurzbeschreibung": "Fähigkeit, sich selbst zu motivieren und die eigene Arbeit zu organisieren, um Ergebnisse zu erzielen"
+        }
+      ]
+    }
+  ]
+}

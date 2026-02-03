@@ -1,0 +1,16 @@
+{
+  "kompetenz_id": "m5",
+  "aufgaben": [
+    {
+      "title": "Projektplan erstellen",
+      "description": "Planen Sie ein realistisches Projekt (z.B. Gruppenarbeit)",
+      "steps": [
+        "Ziele definieren",
+        "Meilensteine setzen",
+        "Aktivitäten planen",
+        "Ressourcen zuordnen",
+        "Risikoplan erstellen"
+      ]
+    }
+  ]
+}

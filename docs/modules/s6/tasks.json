@@ -1,0 +1,16 @@
+{
+  "kompetenz_id": "s6",
+  "aufgaben": [
+    {
+      "title": "Bias-Exploration",
+      "description": "Untersuchen Sie Ihre eigenen Bias und wie sie Ihr Denken beeinflussen",
+      "steps": [
+        "Implizite Associations Test (IAT) durchführen",
+        "Erkannte Bias dokumentieren",
+        "Auswirkungen reflektieren",
+        "Strategien zur Reduktion entwickeln",
+        "Fortschritt verfolgen"
+      ]
+    }
+  ]
+}

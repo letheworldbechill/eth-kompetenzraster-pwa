@@ -1,0 +1,16 @@
+{
+  "kompetenz_id": "s1",
+  "aufgaben": [
+    {
+      "title": "Präsentation halten",
+      "description": "Halten Sie eine kurze Präsentation zu einem Thema",
+      "steps": [
+        "Struktur planen",
+        "Visuelle Hilfsmittel vorbereiten",
+        "Üben",
+        "Feedback einholen",
+        "Verbessern"
+      ]
+    }
+  ]
+}

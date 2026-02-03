@@ -1,0 +1,16 @@
+{
+  "kompetenz_id": "m4",
+  "aufgaben": [
+    {
+      "title": "Fallstudie lösen",
+      "description": "Lösen Sie ein realistisches Problem mit strukturiertem Ansatz",
+      "steps": [
+        "Problem vollständig verstehen",
+        "Ursachen analysieren",
+        "3+ Lösungen generieren",
+        "Beste Lösung bewerten",
+        "Implementierungsplan erstellen"
+      ]
+    }
+  ]
+}

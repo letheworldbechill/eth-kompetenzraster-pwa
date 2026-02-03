@@ -1,0 +1,16 @@
+{
+  "kompetenz_id": "s7",
+  "aufgaben": [
+    {
+      "title": "Verhandlungssimulation",
+      "description": "Nehmen Sie an einer Verhandlung teil und reflektieren Sie",
+      "steps": [
+        "Vorbereitung durchführen",
+        "Verhandlung führen",
+        "Lösung dokumentieren",
+        "Prozess reflektieren",
+        "Gelernte Lektionen dokumentieren"
+      ]
+    }
+  ]
+}

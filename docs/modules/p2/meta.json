@@ -1,0 +1,23 @@
+{
+  "id": "p2",
+  "name": "Kreatives Denken",
+  "kurzbeschreibung": "Neue und nützliche Ideen generieren",
+  "vollbeschreibung": "Fähigkeit, neue und nützliche Ideen zu generieren und umzusetzen",
+  "bereich": "Persönlich",
+  "eth_anker": "ETH Kompetenzraster Seiten 1-4",
+  "quelle": "ETH Kompetenzraster (Eigentum: ETH Zürich)",
+  "scope": {
+    "includes": [
+      "Verständnis der Kompetenzbereiche",
+      "Analyse von Wissen, Fähigkeiten und Einstellungen",
+      "Praktische Anwendung im Hochschulkontext",
+      "Selbstreflexion und Kompetenzentwicklung"
+    ],
+    "excludes": [
+      "Spezifische fachliche Inhalte",
+      "Implementierungsmassnahmen",
+      "Prüfungen oder Zertifizierungen",
+      "Karriereplanung"
+    ]
+  }
+}

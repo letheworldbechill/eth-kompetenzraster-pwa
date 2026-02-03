@@ -1,0 +1,23 @@
+{
+  "id": "p3",
+  "name": "Kritisches Denken",
+  "kurzbeschreibung": "Situationen analysieren und bewerten",
+  "vollbeschreibung": "Fähigkeit, Situationen zu analysieren, zu bewerten und Vorgehensweisen zu empfehlen",
+  "bereich": "Persönlich",
+  "eth_anker": "ETH Kompetenzraster Seiten 1-4",
+  "quelle": "ETH Kompetenzraster (Eigentum: ETH Zürich)",
+  "scope": {
+    "includes": [
+      "Verständnis der Kompetenzbereiche",
+      "Analyse von Wissen, Fähigkeiten und Einstellungen",
+      "Praktische Anwendung im Hochschulkontext",
+      "Selbstreflexion und Kompetenzentwicklung"
+    ],
+    "excludes": [
+      "Spezifische fachliche Inhalte",
+      "Implementierungsmassnahmen",
+      "Prüfungen oder Zertifizierungen",
+      "Karriereplanung"
+    ]
+  }
+}

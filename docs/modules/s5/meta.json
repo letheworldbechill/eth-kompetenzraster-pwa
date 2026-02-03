@@ -1,0 +1,23 @@
+{
+  "id": "s5",
+  "name": "Selbstdarstellung und soziale Einflussnahme",
+  "kurzbeschreibung": "Authentisches und professionelles Selbstbild vermitteln",
+  "vollbeschreibung": "Fähigkeit, anderen ein authentisches und professionelles Selbstbild zu vermitteln",
+  "bereich": "Sozial",
+  "eth_anker": "ETH Kompetenzraster Seiten 1-4",
+  "quelle": "ETH Kompetenzraster (Eigentum: ETH Zürich)",
+  "scope": {
+    "includes": [
+      "Verständnis der Kompetenzbereiche",
+      "Analyse von Wissen, Fähigkeiten und Einstellungen",
+      "Praktische Anwendung im Hochschulkontext",
+      "Selbstreflexion und Kompetenzentwicklung"
+    ],
+    "excludes": [
+      "Spezifische fachliche Inhalte",
+      "Implementierungsmassnahmen",
+      "Prüfungen oder Zertifizierungen",
+      "Karriereplanung"
+    ]
+  }
+}

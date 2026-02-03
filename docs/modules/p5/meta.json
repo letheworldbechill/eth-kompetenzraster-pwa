@@ -1,0 +1,23 @@
+{
+  "id": "p5",
+  "name": "Selbstbewusstsein und Selbstreflexion",
+  "kurzbeschreibung": "Stärken und Schwächen verstehen",
+  "vollbeschreibung": "Fähigkeit, die eigenen Stärken und Schwächen zu verstehen und Selbstentwicklung zu fördern",
+  "bereich": "Persönlich",
+  "eth_anker": "ETH Kompetenzraster Seiten 1-4",
+  "quelle": "ETH Kompetenzraster (Eigentum: ETH Zürich)",
+  "scope": {
+    "includes": [
+      "Verständnis der Kompetenzbereiche",
+      "Analyse von Wissen, Fähigkeiten und Einstellungen",
+      "Praktische Anwendung im Hochschulkontext",
+      "Selbstreflexion und Kompetenzentwicklung"
+    ],
+    "excludes": [
+      "Spezifische fachliche Inhalte",
+      "Implementierungsmassnahmen",
+      "Prüfungen oder Zertifizierungen",
+      "Karriereplanung"
+    ]
+  }
+}

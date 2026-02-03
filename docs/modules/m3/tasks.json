@@ -1,0 +1,16 @@
+{
+  "kompetenz_id": "m3",
+  "aufgaben": [
+    {
+      "title": "Medienanalyse",
+      "description": "Analysieren Sie einen Online-Artikel oder Video kritisch",
+      "steps": [
+        "Quelle und Autor prüfen",
+        "Beweise evaluieren",
+        "Bias erkennen",
+        "Alternativen finden",
+        "Fazit ziehen"
+      ]
+    }
+  ]
+}

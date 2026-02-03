@@ -1,0 +1,27 @@
+{
+  "kompetenz_id": "m1",
+  "aufgaben": [
+    {
+      "title": "Prozessanalyse durchführen",
+      "description": "Analysieren Sie einen alltäglichen Prozess (z.B. Anmeldung an der ETH) und zerlegen Sie ihn in Schritte",
+      "steps": [
+        "Prozess identifizieren",
+        "In Schritte zerlegen",
+        "Inputs und Outputs identifizieren",
+        "Kritische Punkte erkennen",
+        "Dokumentieren"
+      ]
+    },
+    {
+      "title": "Mustererkennung",
+      "description": "Finden Sie Muster in einem Datensatz oder einer Liste",
+      "steps": [
+        "Daten sammeln",
+        "Nach Gemeinsamkeiten suchen",
+        "Ausnahmen identifizieren",
+        "Hypothese formulieren",
+        "Validieren"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "s1",
+  "name": "Kommunikation",
+  "kurzbeschreibung": "In verschiedenen Kontexten kommunizieren",
+  "vollbeschreibung": "Fähigkeit, mit anderen in verschiedenen Kontexten und unterschiedlichen Formen zu kommunizieren",
+  "bereich": "Sozial",
+  "eth_anker": "ETH Kompetenzraster Seiten 1-4",
+  "quelle": "ETH Kompetenzraster (Eigentum: ETH Zürich)",
+  "scope": {
+    "includes": [
+      "Verständnis der Kompetenzbereiche",
+      "Analyse von Wissen, Fähigkeiten und Einstellungen",
+      "Praktische Anwendung im Hochschulkontext",
+      "Selbstreflexion und Kompetenzentwicklung"
+    ],
+    "excludes": [
+      "Spezifische fachliche Inhalte",
+      "Implementierungsmassnahmen",
+      "Prüfungen oder Zertifizierungen",
+      "Karriereplanung"
+    ]
+  }
+}

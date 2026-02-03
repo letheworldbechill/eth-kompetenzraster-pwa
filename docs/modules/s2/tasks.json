@@ -1,0 +1,16 @@
+{
+  "kompetenz_id": "s2",
+  "aufgaben": [
+    {
+      "title": "Teamfähigkeit zeigen",
+      "description": "Arbeiten Sie in einer Gruppe an einer Aufgabe",
+      "steps": [
+        "Ziele klären",
+        "Rollen verteilen",
+        "Zusammenarbeit planen",
+        "Gemeinsam arbeiten",
+        "Resultat reflektieren"
+      ]
+    }
+  ]
+}

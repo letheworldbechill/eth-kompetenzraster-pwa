@@ -1,0 +1,16 @@
+{
+  "kompetenz_id": "p5",
+  "aufgaben": [
+    {
+      "title": "Selbstreflexion durchführen",
+      "description": "Führen Sie eine tiefe Selbstreflexion durch",
+      "steps": [
+        "Feedback sammeln",
+        "Stärken-Schwächen-Analyse durchführen",
+        "Entwicklungsziele setzen",
+        "Massnahmen planen",
+        "Fortschritt verfolgen"
+      ]
+    }
+  ]
+}

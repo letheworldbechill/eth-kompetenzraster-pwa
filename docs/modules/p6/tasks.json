@@ -1,0 +1,16 @@
+{
+  "kompetenz_id": "p6",
+  "aufgaben": [
+    {
+      "title": "Selbstmanagement-Plan",
+      "description": "Erstellen Sie einen persönlichen Selbstmanagement-Plan",
+      "steps": [
+        "Ziele definieren",
+        "Zeitplan erstellen",
+        "Prioritäten setzen",
+        "Strategien für Fokus entwickeln",
+        "Progress tracking aufbauen"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "kompetenz_id": "s4",
+  "aufgaben": [
+    {
+      "title": "Führungssituation reflektieren",
+      "description": "Analysieren Sie eine Führungssituation (real oder hypothetisch)",
+      "steps": [
+        "Situation beschreiben",
+        "Führungsstil identifizieren",
+        "Auswirkungen analysieren",
+        "Alternativen erkunden",
+        "Lernpunkte dokumentieren"
+      ]
+    }
+  ]
+}
